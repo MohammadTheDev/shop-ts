@@ -1,4 +1,4 @@
-import React, { useContext } from "react";
+import { useContext } from "react";
 import { AiFillStar, AiOutlineStar } from "react-icons/ai";
 import { Product } from "../Products.types";
 import { CartContext } from "../../context/cartContext";
