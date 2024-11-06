@@ -1,5 +1,4 @@
-import React, { useContext } from "react";
-import { AiFillStar, AiOutlineStar } from "react-icons/ai";
+import { useContext } from "react";
 import { CartContext } from "../../context/cartContext";
 import Card from "../../Components/Card/Card";
 
@@ -22,3 +21,4 @@ function Home() {
 }
 
 export default Home;
+
